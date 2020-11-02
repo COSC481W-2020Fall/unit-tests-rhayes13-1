@@ -9,12 +9,14 @@ Website:
 6. View about us page
 7. View blog posts
 8. Create blog post
+9. Add comment to blog post
 
 Backend: 
 1. Generate graphs 
 2. Convert graph to HTML string
 3. Upload CSV file to database
 4. Blog posts saved to database
+5. Comments saved to database
 
 
 
@@ -26,7 +28,7 @@ Website:
 Backend: 
 1. Upload CSV file to database
 2. Convert graph to HTML string
-3. Blog posts saved to database
+3. Blog posts and comments saved to database
 4. Generate graphs
 
 
@@ -42,10 +44,14 @@ Website:
 6. View blog posts
 
 
-## My unit tests
+## My unit tests (unable to complete until server is fixed)
+- Create unit test for functionality of adding comments (and confirm user name shows up when other team members view blog)
+- Confirm that at least the 3 most recent wkly team mtgs have blog posts (no unit test - visual)
 
-- I was originally assigned with creating a unit test to check chart type. Line chart is currently default.
 
-- We decided a lot of the visual functionalities are somewhat redundant or pointless to test, such as this one, so we are exploring new functionalities that we can create unit tests for.
+~~- I was originally assigned with creating a unit test to check chart type. Line chart is currently default.~~
 
-- I have spent most of my time trying to familiarize myself with unit tests and python. I plan to do more in the future as my current test is more of a "dummy" test.
+~~- We decided a lot of the visual functionalities are somewhat redundant or pointless to test, such as this one, so we are exploring new functionalities that we can create unit tests for.~~
+
+~~- I have spent most of my time trying to familiarize myself with unit tests and python. I plan to do more in the future as my current test is more of a "dummy" test.~~
+
